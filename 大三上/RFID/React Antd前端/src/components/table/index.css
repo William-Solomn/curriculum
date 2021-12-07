@@ -1,0 +1,14 @@
+.ant-table-cell th{
+    text-align: center;
+}
+a:active,a:hover{
+    text-decoration: none;
+    outline: 0;
+}
+a:not([href]):not([class]),
+a:not([href]):not([class]):hover{
+    color:#1890ff
+}
+#root{
+    padding: 100px;
+}
